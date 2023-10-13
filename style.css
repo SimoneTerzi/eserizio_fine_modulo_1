@@ -1,0 +1,377 @@
+head {
+    background-color: #FFFFFF;
+    color: black;
+    font-style: poppins;
+}
+
+.barra1 {
+    width: auto;
+    margin: 0 auto;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: #F0F0F0;
+    padding-left: 11%;
+    padding-right: 11%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    border-bottom-color: #F0F0F0;
+    border-bottom-style: groove;
+    align-items: center;
+}
+
+#logo {
+    width: auto;
+    height: 50px;
+}
+
+#Membership {
+    border-radius: 25px;
+    width: auto;
+    text-align: auto;
+}
+
+#T {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #F4511E;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+
+#tasti {
+    max-height: 20px;
+}
+
+
+.box1 {
+    width: 90%;
+    height: auto;
+    margin: 2%;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.colonna1 {
+    background-color: #FFFFFF;
+    color: rgb(0, 0, 0);
+    width: 65%;
+    height: auto;
+    margin: 10px;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    padding-left: 10%;
+    padding-right: 2%;
+    gap: 50px;
+
+}
+
+.card_titolo1 {
+    background-color: #FFFFFF;
+    width: auto;
+    height: auto;
+    font-size: 40%;
+    display: flex;
+    flex-direction: row;
+    border-bottom-color: #F0F0F0;
+    border-bottom-style: groove;
+    padding-top: 3%;
+
+}
+
+#rec {
+    font-weight: bold;
+}
+
+/*articolo 1*/
+
+.articolo1 {
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 50%;
+    padding-right: 5%;
+
+}
+
+#elmetto {
+    width: 15px;
+    height: 15px;
+    padding-right: 5px;
+}
+
+#testo1 {
+    font-size: 90%;
+    font-family: sans-serif;
+}
+
+#testo2 {
+    font-size: 170%;
+    font-weight: bold;
+    font-family: serif;
+}
+
+#testo3 {
+    font-size: 100%;
+    font-family: sans-serif;
+    color: #949494;
+}
+
+#testo4 {
+    font-size: 70%;
+    font-family: sans-serif;
+    color: #949494;
+    align-items: center;
+}
+
+#bottontext {
+    border-radius: 15px;
+    border-color: transparent;
+}
+
+#segnalibro {
+    width: 4%;
+    color: #949494;
+    padding-inline-start: 10%;
+}
+
+#puntini {
+    width: 3%;
+    color: #949494;
+    padding-left: 1%;
+}
+
+
+#redux {
+    max-width: 200px;
+    contain: cover;
+    padding-left: 10%;
+}
+
+
+
+/*articolo 2*/
+
+.articolo2 {
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 50%;
+    padding-right: 5%;
+
+}
+
+
+
+#siringone {
+    max-width: 200px;
+    contain: cover;
+    padding-left: 10%;
+}
+
+/*articolo 3*/
+
+.articolo3 {
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 50%;
+    padding-right: 5%;
+
+}
+
+#react18 {
+    max-width: 200px;
+    contain: cover;
+    padding-left: 10%;
+}
+
+
+/*articolo 4*/
+
+.articolo4 {
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 50%;
+    padding-right: 5%;
+}
+
+#startup {
+    max-width: 200px;
+    contain: cover;
+    padding-left: 10%;
+}
+
+
+
+/*articolo 5*/
+
+.articolo5 {
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 50%;
+    padding-right: 5%;
+
+}
+
+#memory {
+    max-width: 200px;
+    contain: cover;
+    padding-left: 10%;
+}
+
+
+/*articolo 6*/
+
+.articolo6 {
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 50%;
+    padding-right: 5%;
+
+}
+
+#Data {
+    max-width: 200px;
+    contain: cover;
+    padding-left: 10%;
+}
+
+
+.colonna2 {
+    background-color: #FFFFFF;
+    color: rgb(0, 0, 0);
+    width: 35%;
+    height: auto;
+    padding-left: 3%;
+    border-left-color: #F0F0F0;
+    border-left-style: groove;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Spazio1 {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+    font-family: sans-serif;
+    border-bottom-color: #F0F0F0;
+    border-bottom-style: groove;
+
+}
+
+#btwitter {
+    width: 200px;
+    border-radius: 40px;
+    border-color: black;
+    text-size-adjust: 10px;
+    font-size: 15px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+
+}
+
+.Spazio2 {
+    align-content: center;
+    font-family: sans-serif;
+}
+
+
+#bottontext2 {
+    border-radius: 40px;
+    border-color: transparent;
+    text-size-adjust: 10px;
+    font-size: 15px;
+    padding: 3%;
+}
+
+.link {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    font-family: sans-serif;
+
+}
+
+#fotoprofilo {
+    border-radius: 50%;
+    max-width: 65px;
+    max-height: 65px;
+}
+
+.profilo1 {
+    width: 250px;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    font-family: sans-serif;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 13px;
+    padding-top: 15px;
+    padding-left: 5%;
+    padding-bottom: 5%;
+}
+
+
+#bottontext3 {
+    width: 120px;
+    height: 50px;
+    border-radius: 40px;
+    border-color: #F0F0F0;
+    text-size-adjust: 10px;
+    font-size: 15px;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+
+.description {
+    width: auto;
+    height: auto;
+    padding-left: 10%;
+    padding-right: 40%;
+}
+
+.finale {
+    display: flex;
+    flex-direction: column;
+}
+
+.Help { display: flex;
+    flex-direction: row;
+    gap: 15px;
+    color: #949494;
+}
